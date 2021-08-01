@@ -1,0 +1,2 @@
+-- SQLite
+SELECT * FROM OrderedGifts
